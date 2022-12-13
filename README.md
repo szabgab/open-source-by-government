@@ -28,6 +28,7 @@ There are separate lists for [Open Source by Higher Education](https://github.co
 * [Government of Canada - Gouvernement du Canada](https://github.com/canada-ca)
 
 
+* [NIST - National Institute of Standards and Technology](https://github.com/usnistgov)
 * [U.S. Digital Service](https://github.com/usds)
 * [Office of Digital Government (DGov)](https://github.com/wagov)
 * [DC Government](https://github.com/DCgov)
