@@ -1,12 +1,14 @@
 # Open Source by government
 
-Somewhat surprisingly there are many local and country-wise governments around the world that share some of their software under and Open Source license.
-We are collecting them in this list.
+Somewhat surprisingly there are many local and country-wise governments around the world that share some of their software under and Open Source license. We are collecting them in this list.
 
 There are separate lists for [Open Source by Higher Education](https://github.com/szabgab/open-source-by-higher-education) and [Open Source by Corporations](https://github.com/szabgab/open-source-by-corporations)
 
+## Australia
 
-## Governments
+* [ACT Government](https://github.com/actgov)
+* [Queensland Government](https://github.com/qld-gov-au)
+* [Office of Digital Government (DGov)](https://github.com/wagov)
 
 ## Bulgaria
 
@@ -38,6 +40,7 @@ There are separate lists for [Open Source by Higher Education](https://github.co
 ## Italy
 
 * [Developers Italia](https://github.com/italia)
+* [Autonomous Province of Bozen-Bolzano - South Tyrol](https://github.com/provbz)
 
 ## Japan
 
@@ -46,6 +49,10 @@ There are separate lists for [Open Source by Higher Education](https://github.co
 ## Korea
 
 * [Korean e-Government Standard Framework Center](https://github.com/eGovFramework)
+
+## Kurdistan
+
+* [Kurdistan Regional Government](https://github.com/ditkrg)
 
 ## Singapore
 
@@ -68,6 +75,7 @@ There are separate lists for [Open Source by Higher Education](https://github.co
 * [UK Government Data Science](https://github.com/ukgovdatascience)
 * [[Unofficial] UK Government Mirror](https://github.com/uk-gov-mirror)
 * [Scottish Government](https://github.com/scottishgovernment)
+* [Connected Open Government Statistics (COGS)](https://github.com/GSS-Cogs)
 
 ## USA
 
@@ -76,22 +84,7 @@ There are separate lists for [Open Source by Higher Education](https://github.co
 * [United States Government Publishing Office](https://github.com/usgpo)
 * [NIST - National Institute of Standards and Technology](https://github.com/usnistgov)
 * [U.S. Digital Service](https://github.com/usds)
-
-## To be moved to their country
-
-
-* [Autonomous Province of Bozen-Bolzano - South Tyrol](https://github.com/provbz)
-
-* [Office of Digital Government (DGov)](https://github.com/wagov)
 * [DC Government](https://github.com/DCgov)
 
-* [Queensland Government](https://github.com/qld-gov-au)
-
-* [Connected Open Government Statistics (COGS)](https://github.com/GSS-Cogs)
-
-* [OpenGovernment](https://github.com/opengovernment)
-
-* [Kurdistan Regional Government](https://github.com/ditkrg)
-
-* [ACT Government ](https://github.com/actgov)
+* [OpenGovernment](https://github.com/opengovernment) (this should be probably moved to non-profits)
 
