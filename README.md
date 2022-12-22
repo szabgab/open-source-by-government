@@ -22,10 +22,22 @@ There are separate lists for [Open Source by Higher Education](https://github.co
 * [Province of British Columbia Corporate](https://github.com/bcgov-c)
 * [The City of Sault Ste. Marie in the Province of Ontario](https://github.com/cityssm)
 * [Government of Ontario | Gouvernement de l'Ontario](https://github.com/ongov)
+* [Government of Alberta](https://github.com/GovAlta)
+* [Government of Canada - Gouvernement du Canada](https://github.com/canada-ca)
+* [Government of Yukon](https://github.com/ytgov)
+
 
 ## Estonia
 
 * [E-government building blocks](https://github.com/e-gov)
+
+## Germany
+
+* [eGovernment Cologne](https://github.com/eGovCologne)
+
+## Italy
+
+* [Developers Italia](https://github.com/italia)
 
 ## Japan
 
@@ -34,6 +46,11 @@ There are separate lists for [Open Source by Higher Education](https://github.co
 ## Korea
 
 * [Korean e-Government Standard Framework Center](https://github.com/eGovFramework)
+
+## Singapore
+
+* [Open Government Products](https://github.com/opengovsg)
+* [Government Digital Services, Singapore](https://github.com/GovTechSG)
 
 ## Sri Lanka
 
@@ -56,38 +73,25 @@ There are separate lists for [Open Source by Higher Education](https://github.co
 
 * [Sandia National Laboratories](https://github.com/sandialabs)
 * [Sandia National Laboratories Water Power Technologies](https://github.com/SNL-WaterPower)
+* [United States Government Publishing Office](https://github.com/usgpo)
+* [NIST - National Institute of Standards and Technology](https://github.com/usnistgov)
+* [U.S. Digital Service](https://github.com/usds)
 
 ## To be moved to their country
 
 
 * [Autonomous Province of Bozen-Bolzano - South Tyrol](https://github.com/provbz)
-* [Open Government Products](https://github.com/opengovsg)  Singapore
-* [Government Digital Services, Singapore](https://github.com/GovTechSG)
-* [Government of Alberta](https://github.com/GovAlta)
-* [Government of Canada - Gouvernement du Canada](https://github.com/canada-ca)
 
-
-* [NIST - National Institute of Standards and Technology](https://github.com/usnistgov)
-* [U.S. Digital Service](https://github.com/usds)
 * [Office of Digital Government (DGov)](https://github.com/wagov)
 * [DC Government](https://github.com/DCgov)
 
-* [Developers Italia](https://github.com/italia)
 * [Queensland Government](https://github.com/qld-gov-au)
 
 * [Connected Open Government Statistics (COGS)](https://github.com/GSS-Cogs)
 
 * [OpenGovernment](https://github.com/opengovernment)
 
-
 * [Kurdistan Regional Government](https://github.com/ditkrg)
-
-
-* [Government of Yukon](https://github.com/ytgov)
-
-* [eGovernment Cologne](https://github.com/eGovCologne)
-
-* [United States Government Publishing Office](https://github.com/usgpo)
 
 * [ACT Government ](https://github.com/actgov)
 
