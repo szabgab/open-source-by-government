@@ -8,6 +8,17 @@ There are separate lists for [Open Source by Higher Education](https://github.co
 
 ## Governments
 
+## Canada
+
+
+## USA
+
+* [Sandia National Laboratories](https://github.com/sandialabs)
+* [Sandia National Laboratories Water Power Technologies](https://github.com/SNL-WaterPower)
+
+
+## To be moved to their country
+
 * [Province of British Columbia](https://github.com/bcgov/)
 * [Province of British Columbia DevOps ](https://github.com/BCDevOps)
 * [Province of British Columbia Social Sector](https://github.com/bcgov-isd)
