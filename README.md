@@ -83,8 +83,9 @@ There are separate lists for [Open Source by Higher Education](https://github.co
     * [Sandia National Laboratories](https://github.com/sandialabs)
     * [Sandia National Laboratories Water Power Technologies](https://github.com/SNL-WaterPower)
     * [PFLOTRAN](https://www.pflotran.org/)
-    * [QuESt](https://www.sandia.gov/ess/tools-resources/quest)  [snl-quest](https://github.com/snl-quest/)
+    * [QuESt](https://www.sandia.gov/ess/tools-resources/quest) - [snl-quest](https://github.com/snl-quest/)
     * [Dakota](https://dakota.sandia.gov/)
+    * [WEC-Sim (Wave Energy Converter SIMulator)](https://wec-sim.github.io/WEC-Sim/master/index.html) - [WEC-Sim](https://github.com/WEC-Sim)
 
 * [National Renewable Energy Laboratory](https://github.com/NREL)
 * [United States Government Publishing Office](https://github.com/usgpo)
