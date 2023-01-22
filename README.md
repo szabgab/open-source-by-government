@@ -79,12 +79,19 @@ There are separate lists for [Open Source by Higher Education](https://github.co
 
 ## USA
 
-* [Sandia National Laboratories](https://github.com/sandialabs)
-* [Sandia National Laboratories Water Power Technologies](https://github.com/SNL-WaterPower)
+* [Sandia](https://www.sandia.gov/):
+    * [Sandia National Laboratories](https://github.com/sandialabs)
+    * [Sandia National Laboratories Water Power Technologies](https://github.com/SNL-WaterPower)
+    * [PFLOTRAN](https://www.pflotran.org/)
+    * [QuESt](https://www.sandia.gov/ess/tools-resources/quest)  [snl-quest](https://github.com/snl-quest/)
+    * [Dakota](https://dakota.sandia.gov/)
+
+* [National Renewable Energy Laboratory](https://github.com/NREL)
 * [United States Government Publishing Office](https://github.com/usgpo)
 * [NIST - National Institute of Standards and Technology](https://github.com/usnistgov)
 * [U.S. Digital Service](https://github.com/usds)
 * [DC Government](https://github.com/DCgov)
 
 * [OpenGovernment](https://github.com/opengovernment) (this should be probably moved to non-profits)
+
 
